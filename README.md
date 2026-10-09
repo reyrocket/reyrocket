@@ -1,1 +1,1 @@
-I like writing code in python, django and sql
+I like writing code in python, c, c++, javascript, html, css, django and sql
